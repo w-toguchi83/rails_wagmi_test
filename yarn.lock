@@ -1230,7 +1230,7 @@ es6-promisify@^5.0.0:
   dependencies:
     es6-promise "^4.0.3"
 
-esbuild@^0.18.10:
+esbuild@0.18.10:
   version "0.18.10"
   resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.18.10.tgz#f0e99e8a957990241be04f2454d7e2cb0d78b43f"
   integrity sha512-33WKo67auOXzZHBY/9DTJRo7kIvfU12S+D4sp2wIz39N88MDIaCGyCwbW01RR70pK6Iya0I74lHEpyLfFqOHPA==
